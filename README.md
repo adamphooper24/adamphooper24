@@ -1,4 +1,4 @@
-Certified Azure Platform Engineer working for @n4stack. Experienced in Azure PaaS and IaaS, mostly working on automating Azure platform deployments using Terraform and Azure Dev Ops Pipelines. 
+Azure Platform Engineer working for @n4stack. Experienced in Azure PaaS and IaaS, mostly working on automating Azure platform deployments using Terraform and Azure Dev Ops Pipelines. 
 Technologies I work with most days include:
 - Terraform
 - Azure PaaS and IaaS
