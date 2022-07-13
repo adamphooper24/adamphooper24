@@ -7,6 +7,5 @@ Technologies I work with most days include:
 - Azure Migrate
 - Azure Stack HCI
 - AKS
-- ADO Pipelines
 
 Also experienced with AWS, GCP, Hyper-V, VMWare and Citrix. 
