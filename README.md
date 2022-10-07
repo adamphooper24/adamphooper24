@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="animated" />
+</p>
+
 <h1 align="center">Hi , I'm Adam:smile:</h1>
 <h3 align="center">An Azure Platform Engineer for Node4:hammer_and_wrench:</h3
-
-
+  
 - 🔭 I’m currently working on **automating infraststructure deployments**
 
 - 🌱 I’m currently learning **AZ-305**
