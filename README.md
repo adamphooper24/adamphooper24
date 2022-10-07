@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi , I'm Adam:smile:</h1>
 <h3 align="center">An Azure Platform Engineer for Node4:hammer_and_wrench:</h3
 
 
 - 🔭 I’m currently working on **automating infraststructure deployments**
 
 - 🌱 I’m currently learning **AZ-305**
+
+- 📝 I regularly write articles on [https://www.quora.com/profile/Adam-Hooper-19](https://www.quora.com/profile/Adam-Hooper-19)
 
 
 ## Some of the technologies I work with include:
