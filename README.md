@@ -10,7 +10,7 @@ I'm an experienced engineer with multiple years experience working with various 
 - IaC tools such as Terraform and Bicep
 - Windows Server Administration
 - SQL Server
-- AWS
+- AWS Administration
 
 
 ## Some of the technologies I work with daily include:
