@@ -5,19 +5,18 @@
 <h1 align="center">Hi , I'm Adam:smile:</h1>
 <h3 align="center">An Azure Platform Engineer for Node4:hammer_and_wrench:</h3
   
-- 🔭 I’m currently working on **automating infrastructure deployments**
+I'm an experienced engineer with multiple years experience working with various on-prem and cloud solutions such as Azure, AWS, GCP, VMWare and Hyper-V. My main skill areas are:
+- Microsoft Azure IaaS and PaaS
+- IaC tools such as Terraform and Bicep
+- Windows Server Administration
+- SQL Server
+- AWS
 
-- 🌱 I’m currently learning **AZ-305**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Adam-Hooper-19](https://www.quora.com/profile/Adam-Hooper-19)
-
-
-## Some of the technologies I work with include:
+## Some of the technologies I work with daily include:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
