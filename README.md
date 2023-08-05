@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi , I'm Adam:smile:</h1>
-<h3 align="center">An Azure Platform Engineer for Node4:hammer_and_wrench:</h3
+<h3 align="center">Azure Platform Engineer:hammer_and_wrench:</h3
   
 I'm an experienced engineer with multiple years experience working with various on-prem and cloud solutions such as Azure, AWS, GCP, VMWare and Hyper-V. My main skill areas are:
 - Microsoft Azure IaaS and PaaS
