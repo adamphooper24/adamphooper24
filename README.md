@@ -11,6 +11,8 @@ I'm an experienced engineer with multiple years experience working with various 
 - Windows Server Administration
 - SQL Server
 - AWS Administration
+- GCP Administration
+- CloudFormation and GDM
 
 
 ## Some of the technologies I work with daily include:
@@ -24,9 +26,6 @@ I'm an experienced engineer with multiple years experience working with various 
 ## Also experienced in:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## About me
-I love gaming:video_game:, motorbikes:motorcycle: and Gojira:guitar:
 
 ## Spend way too much time on:
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
